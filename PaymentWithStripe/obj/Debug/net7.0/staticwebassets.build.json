@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K7NfjQ6WV7jxfovnFJQo6gD9Q0ufjccMhH+epubjI2k=",
+  "Source": "PaymentWithStripe",
+  "BasePath": "_content/PaymentWithStripe",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
